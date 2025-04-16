@@ -1,0 +1,1142 @@
+text,intent
+CHECK RETURN UPDATE.,check_return
+Can you tell me if my return is complete,check_return
+Can you tell me if my return is complete asap,check_return
+Can you tell me if my return is complete now,check_return
+Can you tell me if my return is complete please,check_return
+Can you tell me if my return is complete!,check_return
+Can you tell me if my return is complete.,check_return
+Check actually return update.,check_return
+Check maybe return update.,check_return
+Check please return update.,check_return
+Check return actually update.,check_return
+Check return status for my order,check_return
+Check return status for my order asap,check_return
+Check return status for my order now,check_return
+Check return status for my order please,check_return
+Check return status for my order!,check_return
+Check return status for my order.,check_return
+Check return uh update.,check_return
+Check return um update.,check_return
+Check return update.,check_return
+Check return update. actually,check_return
+Check return update. maybe,check_return
+Check return update. please,check_return
+Check return update. uh,check_return
+Check return update. um,check_return
+Check return update.!,check_return
+Check um return update.,check_return
+HAS MY RETURN BEEN PROCESSED?,check_return
+Has actually my rturn been processed?,check_return
+Has maybe my rturn been processed?,check_return
+Has my return actually been processed?,check_return
+Has my return been prcessed?,check_return
+Has my return been processed,check_return
+Has my return been processed asap,check_return
+Has my return been processed now,check_return
+Has my return been processed please,check_return
+Has my return been processed!,check_return
+Has my return been processed.,check_return
+Has my return been processed?,check_return
+Has my return been processed? please,check_return
+Has my return been processed?!,check_return
+Has my return ben processed?,check_return
+Has my return ben processed? um,check_return
+Has my rturn been processed?,check_return
+Has my rturn please been processed?,check_return
+Has my rturn uh been processed?,check_return
+Has my uh return ben processed?,check_return
+Has please my return ben processed?,check_return
+Has uh my return been prcessed?,check_return
+Hs maybe my return been processed?,check_return
+Hs my return been processed?,check_return
+Hs my return been processed? uh,check_return
+"I RETURNED AN ITEM, IS IT DONE?",check_return
+"I maybe returned an item, is it done?",check_return
+"I returned an item, is it dne?",check_return
+"I returned an item, is it done?",check_return
+"I returned an item, is it done? please",check_return
+"I returned an item, is it done?!",check_return
+"I returned an item, is t done?",check_return
+"I returned an item, maybe s it done?",check_return
+"I returned an item, s it done?",check_return
+"I returned an item, what's the status",check_return
+"I returned an item, what's the status asap",check_return
+"I returned an item, what's the status now",check_return
+"I returned an item, what's the status please",check_return
+"I returned an item, what's the status!",check_return
+"I returned an item, what's the status.",check_return
+"I returned an tem, is it done?",check_return
+"I returned an tem, is maybe it done?",check_return
+"I returned an um item, is it done?",check_return
+"I returned an um item, s it done?",check_return
+"I returned n item, please is it done?",check_return
+"I returned n item, um is it done?",check_return
+"I returned please an item, is t done?",check_return
+"I returned um an item, is it dne?",check_return
+"I rturned an item, is it done?",check_return
+"I rturned an please item, is it done?",check_return
+WHAT IS THE RETURN STATUS?,check_return
+WHERE IS MY RETURN?,check_return
+What is th please return status?,check_return
+What is th return actually status?,check_return
+What is th return status?,check_return
+What is th return status? please,check_return
+What is th return um status?,check_return
+What is the maybe return sttus?,check_return
+What is the please return sttus?,check_return
+What is the please rturn status?,check_return
+What is the return status?,check_return
+What is the return status? please,check_return
+What is the return status?!,check_return
+What is the return sttus?,check_return
+What is the rturn status?,check_return
+What is the rturn status? maybe,check_return
+What is uh the return sttus?,check_return
+What maybe is th return status?,check_return
+What s the return status?,check_return
+What uh is the return sttus?,check_return
+What's going on with my return,check_return
+What's going on with my return asap,check_return
+What's going on with my return now,check_return
+What's going on with my return please,check_return
+What's going on with my return!,check_return
+What's going on with my return.,check_return
+Where is my actually return?,check_return
+Where is my return?,check_return
+Where is my return? please,check_return
+Where is my return? uh,check_return
+Where is my return?!,check_return
+Where is my rturn?,check_return
+Where is my rturn? maybe,check_return
+Where is my um return?,check_return
+Where is please my rturn?,check_return
+Where is um my return?,check_return
+Where is um my rturn?,check_return
+Where s maybe my return?,check_return
+Where s my actually return?,check_return
+Where s my return?,check_return
+Where s um my return?,check_return
+Where uh is my rturn?,check_return
+Whre is my return?,check_return
+Wht is the return status?,check_return
+Wht is the return status? please,check_return
+Wht is the return um status?,check_return
+Wht maybe is the return status?,check_return
+actually What s the return status?,check_return
+check return update.,check_return
+has my return been processed?,check_return
+"i returned an item, is it done?",check_return
+maybe Check return update.,check_return
+maybe What is the return sttus?,check_return
+maybe Where is my return?,check_return
+please Check return update.,check_return
+"please I returned an item, s it done?",check_return
+please Where is my rturn?,check_return
+uh Check return update.,check_return
+uh What is the rturn status?,check_return
+um Check return update.,check_return
+um What s the return status?,check_return
+um Whre is my return?,check_return
+what is the return status?,check_return
+where is my return?,check_return
+Can you find my order by email,find_by_email
+Can you find my order by email asap,find_by_email
+Can you find my order by email now,find_by_email
+Can you find my order by email please,find_by_email
+Can you find my order by email!,find_by_email
+Can you find my order by email.,find_by_email
+FIND MY ORDER BY EMAIL.,find_by_email
+Find my order by actually email.,find_by_email
+Find my order by email.,find_by_email
+Find my order by email. actually,find_by_email
+Find my order by email. please,find_by_email
+Find my order by email.!,find_by_email
+Find my order by mail.,find_by_email
+Find my order by maybe email.,find_by_email
+Find my order by uh mail.,find_by_email
+Find my please order by email.,find_by_email
+Find my please order by mail.,find_by_email
+Find my please rder by email.,find_by_email
+Find my purchase by email.,find_by_email
+Find my rder by email.,find_by_email
+Find my rder by please email.,find_by_email
+Fnd maybe my order by email.,find_by_email
+Fnd my order by email.,find_by_email
+Fnd my order by email. um,find_by_email
+"I DON'T REMEMBER MY ID, USE EMAIL.",find_by_email
+I can give you my email to find the order,find_by_email
+I can give you my email to find the order asap,find_by_email
+I can give you my email to find the order now,find_by_email
+I can give you my email to find the order please,find_by_email
+I can give you my email to find the order!,find_by_email
+I can give you my email to find the order.,find_by_email
+"I dn't maybe remember my ID, use email.",find_by_email
+"I dn't remember actually my ID, use email.",find_by_email
+"I dn't remember my ID, use email.",find_by_email
+"I don't actually rmember my ID, use email.",find_by_email
+"I don't maybe remember my ID, use mail.",find_by_email
+"I don't remember my ID, maybe use email.",find_by_email
+"I don't remember my ID, se email.",find_by_email
+"I don't remember my ID, use email.",find_by_email
+"I don't remember my ID, use email. please",find_by_email
+"I don't remember my ID, use email.!",find_by_email
+"I don't remember my ID, use mail.",find_by_email
+"I don't remember my actually ID, use email.",find_by_email
+"I don't remember my uh ID, use email.",find_by_email
+"I don't remember please my ID, use mail.",find_by_email
+"I don't rmember my ID, use email.",find_by_email
+"I don't rmember my ID, use uh email.",find_by_email
+"I don't um remember my ID, use mail.",find_by_email
+"I forgot my order ID, use my email",find_by_email
+"I forgot my order ID, use my email asap",find_by_email
+"I forgot my order ID, use my email now",find_by_email
+"I forgot my order ID, use my email please",find_by_email
+"I forgot my order ID, use my email!",find_by_email
+"I forgot my order ID, use my email.",find_by_email
+"I maybe don't remember my ID, use email.",find_by_email
+"I please dn't remember my ID, use email.",find_by_email
+"I please don't rmember my ID, use email.",find_by_email
+LOOKUP MY EMAIL INFO.,find_by_email
+Lokup my email info.,find_by_email
+Lokup my email info. actually,find_by_email
+Lokup my email please info.,find_by_email
+Lokup my uh email info.,find_by_email
+Look up my orders using my email,find_by_email
+Look up my orders using my email asap,find_by_email
+Look up my orders using my email now,find_by_email
+Look up my orders using my email please,find_by_email
+Look up my orders using my email!,find_by_email
+Look up my orders using my email.,find_by_email
+Lookup actually my email nfo.,find_by_email
+Lookup my actually email info.,find_by_email
+Lookup my email info.,find_by_email
+Lookup my email info. actually,find_by_email
+Lookup my email info. please,find_by_email
+Lookup my email info.!,find_by_email
+Lookup my email nfo.,find_by_email
+Lookup my email nfo. actually,find_by_email
+Lookup my email nfo. um,find_by_email
+Lookup my mail info.,find_by_email
+Lookup my maybe email info.,find_by_email
+Lookup um my mail info.,find_by_email
+SEARCH MY ORDER WITH EMAIL.,find_by_email
+Sarch maybe my order with email.,find_by_email
+Sarch my order with email.,find_by_email
+Sarch my order with email. um,find_by_email
+Sarch my order with please email.,find_by_email
+Search actually my order with mail.,find_by_email
+Search my actually order wth email.,find_by_email
+Search my order uh with email.,find_by_email
+Search my order uh with mail.,find_by_email
+Search my order with email.,find_by_email
+Search my order with email. please,find_by_email
+Search my order with email.!,find_by_email
+Search my order wth email.,find_by_email
+Search my purchase with email.,find_by_email
+Search my rder please with email.,find_by_email
+Search my rder with actually email.,find_by_email
+Search my rder with email.,find_by_email
+Search my uh order with email.,find_by_email
+Search orders linked to my email address,find_by_email
+Search orders linked to my email address asap,find_by_email
+Search orders linked to my email address now,find_by_email
+Search orders linked to my email address please,find_by_email
+Search orders linked to my email address!,find_by_email
+Search orders linked to my email address.,find_by_email
+Search please my rder with email.,find_by_email
+Search um my rder with email.,find_by_email
+USE EMAIL TO FIND MY ORDERS.,find_by_email
+Us email to find my orders.,find_by_email
+Us email to find my um orders.,find_by_email
+Use email please to find my orders.,find_by_email
+Use email t find my orders. um,find_by_email
+Use email to find my actually orders.,find_by_email
+Use email to find my orders.,find_by_email
+Use email to find my orders. actually,find_by_email
+Use email to find my orders. please,find_by_email
+Use email to find my orders.!,find_by_email
+Use email to find my purchases.,find_by_email
+Use email to find my rders.,find_by_email
+Use email to fnd my orders.,find_by_email
+Use email to fnd my uh orders.,find_by_email
+Use email to fnd uh my orders.,find_by_email
+Use mail to find maybe my orders.,find_by_email
+Use mail to find my orders.,find_by_email
+Use please email t find my orders.,find_by_email
+actually Lookup my mail info.,find_by_email
+actually Sarch my order with email.,find_by_email
+find my order by email.,find_by_email
+"i don't remember my id, use email.",find_by_email
+lookup my email info.,find_by_email
+maybe Lookup my email nfo.,find_by_email
+please Lookup my mail info.,find_by_email
+search my order with email.,find_by_email
+uh Find my order by email.,find_by_email
+uh Search my rder with email.,find_by_email
+um Lookup my email info.,find_by_email
+um Lookup my email nfo.,find_by_email
+use email to find my orders.,find_by_email
+CHECK RETURN WITH MY EMAIL.,find_by_email+check_return
+Chck return with my email.,find_by_email+check_return
+Check actually return with my mail.,find_by_email+check_return
+Check actually rturn with my email.,find_by_email+check_return
+Check my return status using my email,find_by_email+check_return
+Check my return status using my email asap,find_by_email+check_return
+Check my return status using my email now,find_by_email+check_return
+Check my return status using my email please,find_by_email+check_return
+Check my return status using my email!,find_by_email+check_return
+Check my return status using my email.,find_by_email+check_return
+Check please return wth my email.,find_by_email+check_return
+Check return um with my mail.,find_by_email+check_return
+Check return with my email.,find_by_email+check_return
+Check return with my email. please,find_by_email+check_return
+Check return with my email. uh,find_by_email+check_return
+Check return with my email.!,find_by_email+check_return
+Check return with my mail. um,find_by_email+check_return
+Check return with my maybe email.,find_by_email+check_return
+Check return with uh my email.,find_by_email+check_return
+Check return wth my email.,find_by_email+check_return
+Check return wth my email. um,find_by_email+check_return
+Check return wth my maybe email.,find_by_email+check_return
+Check rturn with my email.,find_by_email+check_return
+Check rturn with my email. please,find_by_email+check_return
+EMAIL-BASED RETURN LOOKUP.,find_by_email+check_return
+Email-based maybe return lookup.,find_by_email+check_return
+Email-based please return lookup.,find_by_email+check_return
+Email-based return actually lookup.,find_by_email+check_return
+Email-based return lookup.,find_by_email+check_return
+Email-based return lookup. actually,find_by_email+check_return
+Email-based return lookup. maybe,find_by_email+check_return
+Email-based return lookup. please,find_by_email+check_return
+Email-based return lookup. uh,find_by_email+check_return
+Email-based return lookup. um,find_by_email+check_return
+Email-based return lookup.!,find_by_email+check_return
+Email-based return please lookup.,find_by_email+check_return
+Email-based return um lookup.,find_by_email+check_return
+Email-based um return lookup.,find_by_email+check_return
+FIND THE RETURN INFO VIA EMAIL.,find_by_email+check_return
+Find th return info via email.,find_by_email+check_return
+Find th return maybe info via email.,find_by_email+check_return
+Find th um return info via email.,find_by_email+check_return
+Find the return info please va email.,find_by_email+check_return
+Find the return info va email.,find_by_email+check_return
+Find the return info via email.,find_by_email+check_return
+Find the return info via email. please,find_by_email+check_return
+Find the return info via email.!,find_by_email+check_return
+Find the return info via mail.,find_by_email+check_return
+Find the return nfo via email.,find_by_email+check_return
+Find the return nfo via uh email.,find_by_email+check_return
+Find the rturn info please via email.,find_by_email+check_return
+Find the rturn info via email.,find_by_email+check_return
+Find the um return info va email.,find_by_email+check_return
+Find uh the return info va email.,find_by_email+check_return
+Find uh the rturn info via email.,find_by_email+check_return
+Fnd please the return info via email.,find_by_email+check_return
+Fnd the maybe return info via email.,find_by_email+check_return
+Fnd the return info via email.,find_by_email+check_return
+Fnd um the return info via email.,find_by_email+check_return
+"I lost my order ID, use my email and tell me about the return",find_by_email+check_return
+"I lost my order ID, use my email and tell me about the return asap",find_by_email+check_return
+"I lost my order ID, use my email and tell me about the return now",find_by_email+check_return
+"I lost my order ID, use my email and tell me about the return please",find_by_email+check_return
+"I lost my order ID, use my email and tell me about the return!",find_by_email+check_return
+"I lost my order ID, use my email and tell me about the return.",find_by_email+check_return
+Look up return info by email,find_by_email+check_return
+Look up return info by email asap,find_by_email+check_return
+Look up return info by email now,find_by_email+check_return
+Look up return info by email please,find_by_email+check_return
+Look up return info by email!,find_by_email+check_return
+Look up return info by email.,find_by_email+check_return
+RETURN STATUS LINKED TO MY EMAIL.,find_by_email+check_return
+Return status linked please t my email.,find_by_email+check_return
+Return status linked to my email.,find_by_email+check_return
+Return status linked to my email. please,find_by_email+check_return
+Return status linked to my email.!,find_by_email+check_return
+Return status linked to my mail.,find_by_email+check_return
+Return status linked to my mail. please,find_by_email+check_return
+Return status linked to please my mail.,find_by_email+check_return
+Return status lnked to my email.,find_by_email+check_return
+Return status maybe linked to my email.,find_by_email+check_return
+Return status maybe linked to my mail.,find_by_email+check_return
+Return status uh linked t my email.,find_by_email+check_return
+Return sttus linked to my email.,find_by_email+check_return
+Rturn maybe status linked to my email.,find_by_email+check_return
+Rturn status linked actually to my email.,find_by_email+check_return
+Rturn status linked to my email.,find_by_email+check_return
+Tell me return status of my order found by email,find_by_email+check_return
+Tell me return status of my order found by email asap,find_by_email+check_return
+Tell me return status of my order found by email now,find_by_email+check_return
+Tell me return status of my order found by email please,find_by_email+check_return
+Tell me return status of my order found by email!,find_by_email+check_return
+Tell me return status of my order found by email.,find_by_email+check_return
+USE EMAIL TO CHECK MY RETURN STATUS.,find_by_email+check_return
+Us email to check my return status.,find_by_email+check_return
+Use actually email to chck my return status.,find_by_email+check_return
+Use actually email to check my rturn status.,find_by_email+check_return
+Use email t check my return maybe status.,find_by_email+check_return
+Use email t check my return status.,find_by_email+check_return
+Use email t check my return uh status.,find_by_email+check_return
+Use email t check my uh return status.,find_by_email+check_return
+Use email to chck my return status.,find_by_email+check_return
+Use email to chck my uh return status.,find_by_email+check_return
+Use email to check my return status.,find_by_email+check_return
+Use email to check my return status. please,find_by_email+check_return
+Use email to check my return status.!,find_by_email+check_return
+Use email to check my return sttus.,find_by_email+check_return
+Use email to check my rturn maybe status.,find_by_email+check_return
+Use email to check my rturn status.,find_by_email+check_return
+Use email to check my rturn status. please,find_by_email+check_return
+Use email to check my uh return sttus.,find_by_email+check_return
+Use email to check my um return sttus.,find_by_email+check_return
+Use email to find my return details,find_by_email+check_return
+Use email to find my return details asap,find_by_email+check_return
+Use email to find my return details now,find_by_email+check_return
+Use email to find my return details please,find_by_email+check_return
+Use email to find my return details!,find_by_email+check_return
+Use email to find my return details.,find_by_email+check_return
+Use email to uh check my rturn status.,find_by_email+check_return
+Use email uh to check my return status.,find_by_email+check_return
+Use mail to check my return please status.,find_by_email+check_return
+Use mail to check my return status.,find_by_email+check_return
+Use mail to check my return status. actually,find_by_email+check_return
+Use mail to check my return status. uh,find_by_email+check_return
+Use mail to check um my return status.,find_by_email+check_return
+Use um email t check my return status.,find_by_email+check_return
+actually Email-based return lookup.,find_by_email+check_return
+actually Use email to chck my return status.,find_by_email+check_return
+check return with my email.,find_by_email+check_return
+email-based return lookup.,find_by_email+check_return
+find the return info via email.,find_by_email+check_return
+maybe Email-based return lookup.,find_by_email+check_return
+maybe Use email to check my return sttus.,find_by_email+check_return
+please Chck return with my email.,find_by_email+check_return
+please Email-based return lookup.,find_by_email+check_return
+return status linked to my email.,find_by_email+check_return
+uh Return status lnked to my email.,find_by_email+check_return
+um Check rturn with my email.,find_by_email+check_return
+um Email-based return lookup.,find_by_email+check_return
+um Use email t check my return status.,find_by_email+check_return
+use email to check my return status.,find_by_email+check_return
+EMAIL LOOKUP THEN RETURN ITEM.,find_by_email+return_order
+Email lokup then return item.,find_by_email+return_order
+Email lookup actually then return tem.,find_by_email+return_order
+Email lookup then please return tem.,find_by_email+return_order
+Email lookup then return item.,find_by_email+return_order
+Email lookup then return item. please,find_by_email+return_order
+Email lookup then return item.!,find_by_email+return_order
+Email lookup then return tem.,find_by_email+return_order
+Email lookup then rturn item.,find_by_email+return_order
+Email lookup then rturn item. um,find_by_email+return_order
+Email lookup thn return actually item.,find_by_email+return_order
+Email lookup thn return item.,find_by_email+return_order
+Email lookup thn return item. um,find_by_email+return_order
+Email lookup thn return um item.,find_by_email+return_order
+Email maybe lookup then return tem.,find_by_email+return_order
+Email uh lookup then rturn item.,find_by_email+return_order
+Emil lookup then actually return item.,find_by_email+return_order
+Emil lookup then return item.,find_by_email+return_order
+Emil lookup then return uh item.,find_by_email+return_order
+FIND MY ORDER WITH EMAIL AND RETURN IT.,find_by_email+return_order
+Find my maybe order with email and rturn it.,find_by_email+return_order
+Find my order um with email and return it.,find_by_email+return_order
+Find my order using email and help me return it,find_by_email+return_order
+Find my order using email and help me return it asap,find_by_email+return_order
+Find my order using email and help me return it now,find_by_email+return_order
+Find my order using email and help me return it please,find_by_email+return_order
+Find my order using email and help me return it!,find_by_email+return_order
+Find my order using email and help me return it.,find_by_email+return_order
+Find my order with email and actually return it.,find_by_email+return_order
+Find my order with email and return it.,find_by_email+return_order
+Find my order with email and return it. actually,find_by_email+return_order
+Find my order with email and return it. please,find_by_email+return_order
+Find my order with email and return it.!,find_by_email+return_order
+Find my order with email and rturn it.,find_by_email+return_order
+Find my order with email and uh return t.,find_by_email+return_order
+Find my order with email nd return it.,find_by_email+return_order
+Find my order wth email and return it.,find_by_email+return_order
+Find my order wth email and um return it.,find_by_email+return_order
+Find my purchase with email and return it.,find_by_email+return_order
+Find my rder with email and return it.,find_by_email+return_order
+Find my uh order with email and return it.,find_by_email+return_order
+Fnd my order with email and return it.,find_by_email+return_order
+"I’ll give my email, can you start a return",find_by_email+return_order
+"I’ll give my email, can you start a return asap",find_by_email+return_order
+"I’ll give my email, can you start a return now",find_by_email+return_order
+"I’ll give my email, can you start a return please",find_by_email+return_order
+"I’ll give my email, can you start a return!",find_by_email+return_order
+"I’ll give my email, can you start a return.",find_by_email+return_order
+RETURN REQUEST THROUGH EMAIL ORDER.,find_by_email+return_order
+Return request maybe through mail order.,find_by_email+return_order
+Return request through actually mail order.,find_by_email+return_order
+Return request through email order.,find_by_email+return_order
+Return request through email order. please,find_by_email+return_order
+Return request through email order.!,find_by_email+return_order
+Return request through email purchase.,find_by_email+return_order
+Return request through email rder.,find_by_email+return_order
+Return request through email rder. please,find_by_email+return_order
+Return request through mail actually order.,find_by_email+return_order
+Return request through mail order.,find_by_email+return_order
+Return request through maybe email rder.,find_by_email+return_order
+Return request through uh mail order.,find_by_email+return_order
+Return request thrugh email order.,find_by_email+return_order
+Return rquest through email order.,find_by_email+return_order
+Return rquest through email uh order.,find_by_email+return_order
+Return the item linked to my email,find_by_email+return_order
+Return the item linked to my email asap,find_by_email+return_order
+Return the item linked to my email now,find_by_email+return_order
+Return the item linked to my email please,find_by_email+return_order
+Return the item linked to my email!,find_by_email+return_order
+Return the item linked to my email.,find_by_email+return_order
+Rturn actually request through email order.,find_by_email+return_order
+Rturn request through email order.,find_by_email+return_order
+Rturn request through email order. um,find_by_email+return_order
+Rturn request through uh email order.,find_by_email+return_order
+SEARCH WITH EMAIL AND REQUEST RETURN.,find_by_email+return_order
+Sarch with email and request return.,find_by_email+return_order
+Sarch with email and request return. actually,find_by_email+return_order
+Search maybe with mail and request return.,find_by_email+return_order
+Search my order with email and return it,find_by_email+return_order
+Search my order with email and return it asap,find_by_email+return_order
+Search my order with email and return it now,find_by_email+return_order
+Search my order with email and return it please,find_by_email+return_order
+Search my order with email and return it!,find_by_email+return_order
+Search my order with email and return it.,find_by_email+return_order
+Search please with email and rquest return.,find_by_email+return_order
+Search uh with email and rquest return.,find_by_email+return_order
+Search with actually email and request rturn.,find_by_email+return_order
+Search with email and request return.,find_by_email+return_order
+Search with email and request return. please,find_by_email+return_order
+Search with email and request return.!,find_by_email+return_order
+Search with email and request rturn.,find_by_email+return_order
+Search with email and rquest return.,find_by_email+return_order
+Search with email maybe nd request return.,find_by_email+return_order
+Search with email nd please request return.,find_by_email+return_order
+Search with email nd request please return.,find_by_email+return_order
+Search with email nd request return.,find_by_email+return_order
+Search with email nd uh request return.,find_by_email+return_order
+Search with email nd um request return.,find_by_email+return_order
+Search with email please and request rturn.,find_by_email+return_order
+Search with mail actually and request return.,find_by_email+return_order
+Search with mail and request return.,find_by_email+return_order
+Search with mail uh and request return.,find_by_email+return_order
+Search with maybe email and request rturn.,find_by_email+return_order
+Search with um email and request rturn.,find_by_email+return_order
+Search wth email and request return.,find_by_email+return_order
+Search wth email and request return. actually,find_by_email+return_order
+Search wth email and request uh return.,find_by_email+return_order
+USE MY EMAIL AND RETURN ORDER.,find_by_email+return_order
+Us my email and return order.,find_by_email+return_order
+Us my email um and return order.,find_by_email+return_order
+Use email to find the order and initiate return,find_by_email+return_order
+Use email to find the order and initiate return asap,find_by_email+return_order
+Use email to find the order and initiate return now,find_by_email+return_order
+Use email to find the order and initiate return please,find_by_email+return_order
+Use email to find the order and initiate return!,find_by_email+return_order
+Use email to find the order and initiate return.,find_by_email+return_order
+Use my email and actually return order.,find_by_email+return_order
+Use my email and return actually order.,find_by_email+return_order
+Use my email and return order.,find_by_email+return_order
+Use my email and return order. maybe,find_by_email+return_order
+Use my email and return order. please,find_by_email+return_order
+Use my email and return order. um,find_by_email+return_order
+Use my email and return order.!,find_by_email+return_order
+Use my email and return purchase.,find_by_email+return_order
+Use my email and return rder.,find_by_email+return_order
+Use my email and rturn maybe order.,find_by_email+return_order
+Use my email and rturn order.,find_by_email+return_order
+Use my email and rturn uh order.,find_by_email+return_order
+Use my email and um return order.,find_by_email+return_order
+Use my mail and return order.,find_by_email+return_order
+Use my mail and return order. please,find_by_email+return_order
+Use my mail uh and return order.,find_by_email+return_order
+Use my maybe mail and return order.,find_by_email+return_order
+Use my please email nd return order.,find_by_email+return_order
+Use my please mail and return order.,find_by_email+return_order
+Use my uh email and return order.,find_by_email+return_order
+actually Email lookup then rturn item.,find_by_email+return_order
+actually Search wth email and request return.,find_by_email+return_order
+email lookup then return item.,find_by_email+return_order
+find my order with email and return it.,find_by_email+return_order
+maybe Email lokup then return item.,find_by_email+return_order
+maybe Emil lookup then return item.,find_by_email+return_order
+maybe Search with mail and request return.,find_by_email+return_order
+please Use my email and rturn order.,find_by_email+return_order
+return request through email order.,find_by_email+return_order
+search with email and request return.,find_by_email+return_order
+uh Emil lookup then return item.,find_by_email+return_order
+uh Search with email and rquest return.,find_by_email+return_order
+uh Use my email and return rder.,find_by_email+return_order
+um Email lookup then rturn item.,find_by_email+return_order
+um Find my order with email and return t.,find_by_email+return_order
+um Search with mail and request return.,find_by_email+return_order
+use my email and return order.,find_by_email+return_order
+Can I return something I bought,return_order
+Can I return something I bought asap,return_order
+Can I return something I bought now,return_order
+Can I return something I bought please,return_order
+Can I return something I bought!,return_order
+Can I return something I bought.,return_order
+Help me return my order,return_order
+Help me return my order asap,return_order
+Help me return my order now,return_order
+Help me return my order please,return_order
+Help me return my order!,return_order
+Help me return my order.,return_order
+I WANT TO RETURN THIS ITEM.,return_order
+I actually want to rturn this item.,return_order
+I maybe want to rturn this item.,return_order
+I want please to return ths item.,return_order
+I want t return um this item.,return_order
+I want t um return this item.,return_order
+I want to please rturn this item.,return_order
+I want to return an item,return_order
+I want to return an item asap,return_order
+I want to return an item now,return_order
+I want to return an item please,return_order
+I want to return an item!,return_order
+I want to return an item.,return_order
+I want to return this item.,return_order
+I want to return this item. please,return_order
+I want to return this item.!,return_order
+I want to return this tem.,return_order
+I want to return ths item.,return_order
+I want to rturn this item.,return_order
+I wnt uh to return this item.,return_order
+INITIATE A RETURN REQUEST.,return_order
+Initiate  actually return request.,return_order
+Initiate  return request.,return_order
+Initiate a actually rturn request.,return_order
+Initiate a return for my product,return_order
+Initiate a return for my product asap,return_order
+Initiate a return for my product now,return_order
+Initiate a return for my product please,return_order
+Initiate a return for my product!,return_order
+Initiate a return for my product.,return_order
+Initiate a return request.,return_order
+Initiate a return request. please,return_order
+Initiate a return request.!,return_order
+Initiate a return rquest.,return_order
+Initiate a rturn maybe request.,return_order
+Initiate a rturn please request.,return_order
+Initiate a rturn request.,return_order
+Initiate a rturn request. um,return_order
+Initiate a rturn uh request.,return_order
+Initiate a um rturn request.,return_order
+Intiate a please return request.,return_order
+Intiate a return please request.,return_order
+Intiate a return request.,return_order
+Intiate a return uh request.,return_order
+Intiate actually a return request.,return_order
+Intiate uh a return request.,return_order
+RETURN MY PURCHASE.,return_order
+Return my maybe purchase.,return_order
+Return my purchase.,return_order
+Return my purchase. actually,return_order
+Return my purchase. maybe,return_order
+Return my purchase. please,return_order
+Return my purchase. uh,return_order
+Return my purchase. um,return_order
+Return my purchase.!,return_order
+Return my uh purchase.,return_order
+Return uh my purchase.,return_order
+Return um my purchase.,return_order
+SEND IT BACK.,return_order
+START RETURN FOR MY ORDER.,return_order
+Send actually it back.,return_order
+Send it back.,return_order
+Send it back. maybe,return_order
+Send it back. please,return_order
+Send it back. um,return_order
+Send it back.!,return_order
+Send it please back.,return_order
+Send it uh back.,return_order
+Send maybe it back.,return_order
+Send uh it back.,return_order
+Start a return process,return_order
+Start a return process asap,return_order
+Start a return process now,return_order
+Start a return process please,return_order
+Start a return process!,return_order
+Start a return process.,return_order
+Start maybe return for my rder.,return_order
+Start return for my maybe rder.,return_order
+Start return for my order.,return_order
+Start return for my order. please,return_order
+Start return for my order.!,return_order
+Start return for my please order.,return_order
+Start return for my purchase.,return_order
+Start return for my rder.,return_order
+Start return for my um order.,return_order
+Start return for please my order.,return_order
+Start return for please my rder.,return_order
+Start return fr my order.,return_order
+Start return fr my um order.,return_order
+Start return please fr my order.,return_order
+Start return um for my rder.,return_order
+Start rturn for my order.,return_order
+Start uh return fr my order.,return_order
+Strt actually return for my order.,return_order
+Strt return for maybe my order.,return_order
+Strt return for my order.,return_order
+Strt return for my order. maybe,return_order
+Strt return for um my order.,return_order
+Strt uh return for my order.,return_order
+actually Return my purchase.,return_order
+actually Send it back.,return_order
+i want to return this item.,return_order
+initiate a return request.,return_order
+maybe Return my purchase.,return_order
+maybe Start return for my order.,return_order
+maybe Start return fr my order.,return_order
+please Initiate a rturn request.,return_order
+return my purchase.,return_order
+send it back.,return_order
+start return for my order.,return_order
+uh Initiate  return request.,return_order
+uh Initiate a rturn request.,return_order
+uh Intiate a return request.,return_order
+um I want to return this tem.,return_order
+CAN YOU TELL ME THE DELIVERY STATUS?,track_order
+CHECK ORDER TRACKING.,track_order
+Can actually you tll me the delivery status?,track_order
+Can please you tll me the delivery status?,track_order
+Can uh you tell me the dlivery status?,track_order
+Can uh yu tell me the delivery status?,track_order
+Can you please tell me the dlivery status?,track_order
+Can you tell m maybe the delivery status?,track_order
+Can you tell m the delivery status?,track_order
+Can you tell m the please delivery status?,track_order
+Can you tell m the um delivery status?,track_order
+Can you tell maybe m the delivery status?,track_order
+Can you tell me th delivery status?,track_order
+Can you tell me the delivery actually sttus?,track_order
+Can you tell me the delivery status?,track_order
+Can you tell me the delivery status? please,track_order
+Can you tell me the delivery status?!,track_order
+Can you tell me the delivery sttus? actually,track_order
+Can you tell me the dlivery status?,track_order
+Can you tll me the delivery status?,track_order
+Can you tll me the delivery um status?,track_order
+Can you track my delivery,track_order
+Can you track my delivery asap,track_order
+Can you track my delivery now,track_order
+Can you track my delivery please,track_order
+Can you track my delivery!,track_order
+Can you track my delivery.,track_order
+Can yu tell me the delivery status?,track_order
+Check actually order tracking.,track_order
+Check maybe order tracking.,track_order
+Check order actually tracking.,track_order
+Check order maybe tracking.,track_order
+Check order please tracking.,track_order
+Check order tracking.,track_order
+Check order tracking. actually,track_order
+Check order tracking. please,track_order
+Check order tracking.!,track_order
+Check order uh tracking.,track_order
+Check purchase tracking.,track_order
+Cn actually you tell me the delivery status?,track_order
+Cn maybe you tell me the delivery status?,track_order
+Cn you please tell me the delivery status?,track_order
+Cn you tell me the delivery status?,track_order
+Cn you tell me the delivery status? um,track_order
+I WANT TO KNOW WHERE MY ORDER IS.,track_order
+I want t know where my order is.,track_order
+I want t know where my order is. um,track_order
+I want to know the status of my order,track_order
+I want to know the status of my order asap,track_order
+I want to know the status of my order now,track_order
+I want to know the status of my order please,track_order
+I want to know the status of my order!,track_order
+I want to know the status of my order.,track_order
+I want to know where my maybe rder is.,track_order
+I want to know where my order is.,track_order
+I want to know where my order is. please,track_order
+I want to know where my order is.!,track_order
+I want to know where my order s.,track_order
+I want to know where my please order s.,track_order
+I want to know where my purchase is.,track_order
+I want to know where uh my order s.,track_order
+I want to know whre my order is.,track_order
+I want to know whre my order is. actually,track_order
+I want to know whre my order uh is.,track_order
+I want to knw where actually my order is.,track_order
+I want to knw where my order is.,track_order
+I want to knw where my order is. uh,track_order
+I want to maybe knw where my order is.,track_order
+I wnt to know where maybe my order is.,track_order
+I wnt to know where my order is.,track_order
+I wnt to know where my order uh is.,track_order
+TRACK MY PACKAGE.,track_order
+Track actually my package.,track_order
+Track maybe my package.,track_order
+Track my maybe package.,track_order
+Track my order please,track_order
+Track my order please asap,track_order
+Track my order please now,track_order
+Track my order please please,track_order
+Track my order please!,track_order
+Track my order please.,track_order
+Track my package.,track_order
+Track my package. actually,track_order
+Track my package. please,track_order
+Track my package. um,track_order
+Track my package.!,track_order
+Track my um package.,track_order
+Track please my package.,track_order
+Track um my package.,track_order
+WHERE IS MY ORDER?,track_order
+What's the update on my recent purchase,track_order
+What's the update on my recent purchase asap,track_order
+What's the update on my recent purchase now,track_order
+What's the update on my recent purchase please,track_order
+What's the update on my recent purchase!,track_order
+What's the update on my recent purchase.,track_order
+Where is my maybe order?,track_order
+Where is my order,track_order
+Where is my order asap,track_order
+Where is my order now,track_order
+Where is my order please,track_order
+Where is my order!,track_order
+Where is my order.,track_order
+Where is my order?,track_order
+Where is my order? please,track_order
+Where is my order? uh,track_order
+Where is my order?!,track_order
+Where is my purchase?,track_order
+Where is my rder?,track_order
+Where is my rder? actually,track_order
+Where maybe is my rder?,track_order
+Where maybe s my order?,track_order
+Where s my order?,track_order
+Where s my order? please,track_order
+Where s my order? uh,track_order
+Where uh s my order?,track_order
+Whre is my order?,track_order
+Whre is my order? um,track_order
+Whre uh is my order?,track_order
+actually Check order tracking.,track_order
+can you tell me the delivery status?,track_order
+check order tracking.,track_order
+i want to know where my order is.,track_order
+maybe Can you tell me the dlivery status?,track_order
+maybe Check order tracking.,track_order
+please Check order tracking.,track_order
+please Track my package.,track_order
+track my package.,track_order
+uh Can you tell me the delivery sttus?,track_order
+uh Can you tell me the dlivery status?,track_order
+uh I want to know whre my order is.,track_order
+um Track my package.,track_order
+where is my order?,track_order
+CAN YOU CHECK TRACKING AND RETURN?,track_order+check_return
+Can maybe you check tracking nd return?,track_order+check_return
+Can maybe yu check tracking and return?,track_order+check_return
+Can uh you check trcking and return?,track_order+check_return
+Can um you check tracking nd return?,track_order+check_return
+Can you chck tracking and return?,track_order+check_return
+Can you chck tracking uh and return?,track_order+check_return
+Can you check tracking and return?,track_order+check_return
+Can you check tracking and return? please,track_order+check_return
+Can you check tracking and return?!,track_order+check_return
+Can you check tracking nd return?,track_order+check_return
+Can you check tracking uh and rturn?,track_order+check_return
+Can you check trcking and please return?,track_order+check_return
+Can you check trcking and return?,track_order+check_return
+Can you maybe check tracking nd return?,track_order+check_return
+Can you please check tracking nd return?,track_order+check_return
+Can you please check trcking and return?,track_order+check_return
+Can you track my order and check the return status,track_order+check_return
+Can you track my order and check the return status asap,track_order+check_return
+Can you track my order and check the return status now,track_order+check_return
+Can you track my order and check the return status please,track_order+check_return
+Can you track my order and check the return status!,track_order+check_return
+Can you track my order and check the return status.,track_order+check_return
+Can you um check trcking and return?,track_order+check_return
+Can yu check tracking actually and return?,track_order+check_return
+Can yu check tracking and maybe return?,track_order+check_return
+Can yu check tracking and return?,track_order+check_return
+Can yu check tracking and return? um,track_order+check_return
+Can yu check tracking and uh return?,track_order+check_return
+Cn you check tracking and return?,track_order+check_return
+Cn you check tracking um and return?,track_order+check_return
+Cn you uh check tracking and return?,track_order+check_return
+Give me tracking info and return update,track_order+check_return
+Give me tracking info and return update asap,track_order+check_return
+Give me tracking info and return update now,track_order+check_return
+Give me tracking info and return update please,track_order+check_return
+Give me tracking info and return update!,track_order+check_return
+Give me tracking info and return update.,track_order+check_return
+Has my order shipped and is the return processed,track_order+check_return
+Has my order shipped and is the return processed asap,track_order+check_return
+Has my order shipped and is the return processed now,track_order+check_return
+Has my order shipped and is the return processed please,track_order+check_return
+Has my order shipped and is the return processed!,track_order+check_return
+Has my order shipped and is the return processed.,track_order+check_return
+I WANT TO SEE BOTH ORDER AND RETURN STATUS.,track_order+check_return
+I actually wnt to see both order and return status.,track_order+check_return
+I maybe want to see both order and return status.,track_order+check_return
+I uh want to se both order and return status.,track_order+check_return
+I want actually to see both rder and return status.,track_order+check_return
+I want actually to see bth order and return status.,track_order+check_return
+I want t see both order and return status.,track_order+check_return
+I want t see both order and return um status.,track_order+check_return
+I want t see um both order and return status.,track_order+check_return
+I want t um see both order and return status.,track_order+check_return
+I want to know where my order is and if the return is complete,track_order+check_return
+I want to know where my order is and if the return is complete asap,track_order+check_return
+I want to know where my order is and if the return is complete now,track_order+check_return
+I want to know where my order is and if the return is complete please,track_order+check_return
+I want to know where my order is and if the return is complete!,track_order+check_return
+I want to know where my order is and if the return is complete.,track_order+check_return
+I want to se both order and return status.,track_order+check_return
+I want to se both order please and return status.,track_order+check_return
+I want to see both order and return status.,track_order+check_return
+I want to see both order and return status. please,track_order+check_return
+I want to see both order and return status.!,track_order+check_return
+I want to see both order and return sttus.,track_order+check_return
+I want to see both order and rturn status.,track_order+check_return
+I want to see both order nd return status.,track_order+check_return
+I want to see both order nd return um status.,track_order+check_return
+I want to see both purchase and return status.,track_order+check_return
+I want to see both rder actually and return status.,track_order+check_return
+I want to see both rder um and return status.,track_order+check_return
+I want to see bth order and return status.,track_order+check_return
+I want to see maybe both order nd return status.,track_order+check_return
+I want to see please both rder and return status.,track_order+check_return
+I want to um see both order and return status.,track_order+check_return
+I want uh to see both rder and return status.,track_order+check_return
+I wnt actually to see both order and return status.,track_order+check_return
+I wnt to actually see both order and return status.,track_order+check_return
+I wnt to see both order and return status.,track_order+check_return
+STATUS OF MY DELIVERY AND RETURN.,track_order+check_return
+Status f my delivery and return.,track_order+check_return
+Status f my uh delivery and return.,track_order+check_return
+Status of my delivery actually and rturn.,track_order+check_return
+Status of my delivery actually nd return.,track_order+check_return
+Status of my delivery and maybe rturn.,track_order+check_return
+Status of my delivery and return.,track_order+check_return
+Status of my delivery and return. please,track_order+check_return
+Status of my delivery and return.!,track_order+check_return
+Status of my delivery and rturn.,track_order+check_return
+Status of my delivery and um rturn.,track_order+check_return
+Status of my delivery nd return.,track_order+check_return
+Status of my delivery uh and return.,track_order+check_return
+Status of my dlivery and return.,track_order+check_return
+Status of my dlivery and um return.,track_order+check_return
+Status uh of my delivery nd return.,track_order+check_return
+Sttus of my delivery and return.,track_order+check_return
+Sttus of my delivery and return. please,track_order+check_return
+Sttus of my uh delivery and return.,track_order+check_return
+TRACK MY ORDER AND CHECK IF THE RETURN IS DONE.,track_order+check_return
+Track my order and actually chck if the return is done.,track_order+check_return
+Track my order and chck if the return is done.,track_order+check_return
+Track my order and chck maybe if the return is done.,track_order+check_return
+Track my order and check f the return is done.,track_order+check_return
+Track my order and check f the return um is done.,track_order+check_return
+Track my order and check if th actually return is done.,track_order+check_return
+Track my order and check if the return is dne.,track_order+check_return
+Track my order and check if the return is done.,track_order+check_return
+Track my order and check if the return is done. please,track_order+check_return
+Track my order and check if the return is done.!,track_order+check_return
+Track my order and check if the return s done.,track_order+check_return
+Track my order and check uh if the rturn is done.,track_order+check_return
+Track my order and um check if the return is dne.,track_order+check_return
+Track my order nd check if the return is done.,track_order+check_return
+Track my order nd maybe check if the return is done.,track_order+check_return
+Track my please order nd check if the return is done.,track_order+check_return
+Track my purchase and check if the return is done.,track_order+check_return
+Track my rder and actually check if the return is done.,track_order+check_return
+Track my rder and check if the return is done.,track_order+check_return
+Track my rder and check if the return is done. uh,track_order+check_return
+Track the delivery and also see if I returned it,track_order+check_return
+Track the delivery and also see if I returned it asap,track_order+check_return
+Track the delivery and also see if I returned it now,track_order+check_return
+Track the delivery and also see if I returned it please,track_order+check_return
+Track the delivery and also see if I returned it!,track_order+check_return
+Track the delivery and also see if I returned it.,track_order+check_return
+Track um my order and check if the return is dne.,track_order+check_return
+Trck my order and check if the return is done.,track_order+check_return
+Trck my order please and check if the return is done.,track_order+check_return
+WHERE IS MY ORDER AND WHAT ABOUT THE RETURN?,track_order+check_return
+Where actually is my order and what about th return?,track_order+check_return
+Where is my order and actually what bout the return?,track_order+check_return
+Where is my order and uh what about th return?,track_order+check_return
+Where is my order and what about actually th return?,track_order+check_return
+Where is my order and what about th return?,track_order+check_return
+Where is my order and what about th return? actually,track_order+check_return
+Where is my order and what about th return? please,track_order+check_return
+Where is my order and what about the return?,track_order+check_return
+Where is my order and what about the return? please,track_order+check_return
+Where is my order and what about the return?!,track_order+check_return
+Where is my order and what about the rturn?,track_order+check_return
+Where is my order and wht about the return?,track_order+check_return
+Where is my order and wht about the return? actually,track_order+check_return
+Where is my order nd what about the return?,track_order+check_return
+Where is my order nd what about the return? uh,track_order+check_return
+Where is my order nd what about uh the return?,track_order+check_return
+Where is my purchase and what about the return?,track_order+check_return
+Where is my rder and what about the return?,track_order+check_return
+Where is my uh order and wht about the return?,track_order+check_return
+Where is my um order and what about the return?,track_order+check_return
+Where s my order and what about the return?,track_order+check_return
+Whre is my order and actually what about the return?,track_order+check_return
+Whre is my order and what about maybe the return?,track_order+check_return
+Whre is my order and what about the return?,track_order+check_return
+Whre is my order and what maybe about the return?,track_order+check_return
+Whre is my please order and what about the return?,track_order+check_return
+actually Status of my delivery and return.,track_order+check_return
+actually Where is my order and what about th return?,track_order+check_return
+actually Where is my order and wht about the return?,track_order+check_return
+can you check tracking and return?,track_order+check_return
+i want to see both order and return status.,track_order+check_return
+maybe Where is my order and what about the return?,track_order+check_return
+please Sttus of my delivery and return.,track_order+check_return
+please Track my order and check if th return is done.,track_order+check_return
+status of my delivery and return.,track_order+check_return
+track my order and check if the return is done.,track_order+check_return
+uh Can you chck tracking and return?,track_order+check_return
+uh Can you check tracking and rturn?,track_order+check_return
+uh I want to see both order and rturn status.,track_order+check_return
+um Can you check trcking and return?,track_order+check_return
+where is my order and what about the return?,track_order+check_return
+GET DELIVERY STATUS AND RETURN ITEM.,track_order+return_order
+Get delivery please sttus and return item.,track_order+return_order
+Get delivery status and return item.,track_order+return_order
+Get delivery status and return item. please,track_order+return_order
+Get delivery status and return item.!,track_order+return_order
+Get delivery status and return tem.,track_order+return_order
+Get delivery status and rturn please item.,track_order+return_order
+Get delivery status maybe and return tem.,track_order+return_order
+Get delivery status nd return item.,track_order+return_order
+Get delivery sttus and maybe return item.,track_order+return_order
+Get delivery sttus and return item.,track_order+return_order
+Get delivery sttus and return item. maybe,track_order+return_order
+Get delivery sttus please and return item.,track_order+return_order
+Get delivery sttus uh and return item.,track_order+return_order
+Get dlivery status and return item.,track_order+return_order
+Get please delivery status and return tem.,track_order+return_order
+Give me shipping status and help me return it,track_order+return_order
+Give me shipping status and help me return it asap,track_order+return_order
+Give me shipping status and help me return it now,track_order+return_order
+Give me shipping status and help me return it please,track_order+return_order
+Give me shipping status and help me return it!,track_order+return_order
+Give me shipping status and help me return it.,track_order+return_order
+Gt delivery status and return item.,track_order+return_order
+I WANT TO CHECK TRACKING AND RETURN THE ITEM.,track_order+return_order
+I maybe want to check tracking nd return the item.,track_order+return_order
+I want t uh check tracking and return the item.,track_order+return_order
+I want to check actually tracking and return th item.,track_order+return_order
+I want to check maybe trcking and return the item.,track_order+return_order
+I want to check tracking and return th item.,track_order+return_order
+I want to check tracking and return the item.,track_order+return_order
+I want to check tracking and return the item. please,track_order+return_order
+I want to check tracking and return the item.!,track_order+return_order
+I want to check tracking and return the tem.,track_order+return_order
+I want to check tracking and rturn the item.,track_order+return_order
+I want to check tracking maybe nd return the item.,track_order+return_order
+I want to check tracking nd return the item.,track_order+return_order
+I want to check tracking please and return th item.,track_order+return_order
+I want to check tracking um and return the tem.,track_order+return_order
+I want to check trcking and return the item.,track_order+return_order
+I want to check trcking please and return the item.,track_order+return_order
+I want to check uh tracking and return th item.,track_order+return_order
+I want to check um tracking and return th item.,track_order+return_order
+"I want to return my order, but also need the tracking info",track_order+return_order
+"I want to return my order, but also need the tracking info asap",track_order+return_order
+"I want to return my order, but also need the tracking info now",track_order+return_order
+"I want to return my order, but also need the tracking info please",track_order+return_order
+"I want to return my order, but also need the tracking info!",track_order+return_order
+"I want to return my order, but also need the tracking info.",track_order+return_order
+I want to uh check tracking and return the item.,track_order+return_order
+I want um to chck tracking and return the item.,track_order+return_order
+I want um to check tracking and return the item.,track_order+return_order
+I wnt to check tracking and return the item.,track_order+return_order
+ORDER TRACKING AND INITIATE RETURN.,track_order+return_order
+Order maybe tracking nd initiate return.,track_order+return_order
+Order tracking and actually initiate rturn.,track_order+return_order
+Order tracking and initiate return.,track_order+return_order
+Order tracking and initiate return. please,track_order+return_order
+Order tracking and initiate return.!,track_order+return_order
+Order tracking and initiate rturn.,track_order+return_order
+Order tracking and nitiate return.,track_order+return_order
+Order tracking maybe and nitiate return.,track_order+return_order
+Order tracking nd initiate return.,track_order+return_order
+Order tracking nd initiate return. actually,track_order+return_order
+Order tracking please nd initiate return.,track_order+return_order
+Order trcking and initiate return.,track_order+return_order
+Order trcking and initiate return. maybe,track_order+return_order
+Order trcking and initiate uh return.,track_order+return_order
+Order uh trcking and initiate return.,track_order+return_order
+Order um tracking and nitiate return.,track_order+return_order
+Order um trcking and initiate return.,track_order+return_order
+Ordr tracking and initiate return.,track_order+return_order
+TELL ME WHERE IT IS AND PROCESS RETURN.,track_order+return_order
+TRACK MY ORDER AND THEN RETURN IT.,track_order+return_order
+Tell m where it is and process return.,track_order+return_order
+Tell me uh whre it is and process return.,track_order+return_order
+Tell me um whre it is and process return.,track_order+return_order
+Tell me where it is and prcess return.,track_order+return_order
+Tell me where it is and process return.,track_order+return_order
+Tell me where it is and process return. please,track_order+return_order
+Tell me where it is and process return.!,track_order+return_order
+Tell me where it is and process rturn.,track_order+return_order
+Tell me where it is nd process return.,track_order+return_order
+Tell me where it is nd process return. actually,track_order+return_order
+Tell me where it is please and process rturn.,track_order+return_order
+Tell me where it please is and prcess return.,track_order+return_order
+Tell me where it um is nd process return.,track_order+return_order
+Tell me where please it is and prcess return.,track_order+return_order
+Tell me where t is and process return.,track_order+return_order
+Tell me where t is and uh process return.,track_order+return_order
+Tell me whre it is and please process return.,track_order+return_order
+Tell me whre it is and process return.,track_order+return_order
+Tell me whre it is uh and process return.,track_order+return_order
+Tell me whre please it is and process return.,track_order+return_order
+Track and return this item,track_order+return_order
+Track and return this item asap,track_order+return_order
+Track and return this item now,track_order+return_order
+Track and return this item please,track_order+return_order
+Track and return this item!,track_order+return_order
+Track and return this item.,track_order+return_order
+Track maybe my rder and then return it.,track_order+return_order
+Track my order and also I want to return it,track_order+return_order
+Track my order and also I want to return it asap,track_order+return_order
+Track my order and also I want to return it now,track_order+return_order
+Track my order and also I want to return it please,track_order+return_order
+Track my order and also I want to return it!,track_order+return_order
+Track my order and also I want to return it.,track_order+return_order
+Track my order and then return it.,track_order+return_order
+Track my order and then return it. maybe,track_order+return_order
+Track my order and then return it. please,track_order+return_order
+Track my order and then return it.!,track_order+return_order
+Track my order and then return t.,track_order+return_order
+Track my order and then rturn it.,track_order+return_order
+Track my order and thn return it.,track_order+return_order
+Track my order and thn return it. maybe,track_order+return_order
+Track my order nd then return it. uh,track_order+return_order
+Track my order please and thn return it.,track_order+return_order
+Track my order uh and then rturn it.,track_order+return_order
+Track my order um and thn return it.,track_order+return_order
+Track my purchase and then return it.,track_order+return_order
+Track my rder and then return actually it.,track_order+return_order
+Track my rder and then return it.,track_order+return_order
+Track my rder please and then return it.,track_order+return_order
+Track please my order and thn return it.,track_order+return_order
+Track please my order nd then return it.,track_order+return_order
+Trck my order and actually then return it.,track_order+return_order
+Trck my order and then return it.,track_order+return_order
+Where is my order and how can I return it,track_order+return_order
+Where is my order and how can I return it asap,track_order+return_order
+Where is my order and how can I return it now,track_order+return_order
+Where is my order and how can I return it please,track_order+return_order
+Where is my order and how can I return it!,track_order+return_order
+Where is my order and how can I return it.,track_order+return_order
+get delivery status and return item.,track_order+return_order
+i want to check tracking and return the item.,track_order+return_order
+maybe Tell me where it s and process return.,track_order+return_order
+order tracking and initiate return.,track_order+return_order
+please I want to check trcking and return the item.,track_order+return_order
+tell me where it is and process return.,track_order+return_order
+track my order and then return it.,track_order+return_order
