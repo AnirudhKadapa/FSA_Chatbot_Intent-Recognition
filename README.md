@@ -42,3 +42,29 @@ Once your done creating your environment(same for conda or venv) use
 pip install requirements.txt
 ```
 
+---
+
+## Predicting Intent
+Model types: logreg, svm, lstm, bert
+If you want to check the intent of a Text you can run this on your CLI of your activated environment
+```
+python predict_intent.py --model <Model_type> --text <TEXT>
+```
+Example:
+lets say, I want to use the logistic regression to predict the intent and my text is "I want to track my order"
+```
+python predict_intent.py --model logreg --text "I want to track my order"
+```
+
+---
+
+## Running the Chatbot
+<div align="center">
+  <img alt="PORTOS logo" src="https://github.com/user-attachments/assets/167d3501-770e-46ac-85cb-5e34f24b2925" width="100%">
+</div>
+
+### Run THe chatbot
+```
+python -W ignore::FutureWarning chatbot_with_bert.py
+```
+the warning tags just avoid any warning showed and help keep the CLI clean
