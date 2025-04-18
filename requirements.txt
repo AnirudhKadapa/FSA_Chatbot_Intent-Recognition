@@ -1,0 +1,10 @@
+torch>=2.0.0
+transformers>=4.35.0
+scikit-learn>=1.3.0
+spacy>=3.7.0
+textblob>=0.17.1
+pandas>=2.0.0
+numpy>=1.24.0
+gradio>=4.15.0        # Optional UI
+matplotlib>=3.7.0     # For plots (optional)
+seaborn>=0.12.2       # For visualizations (optional)
