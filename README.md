@@ -65,6 +65,6 @@ python predict_intent.py --model logreg --text "I want to track my order"
 
 ### Run THe chatbot
 ```
-python -W ignore::FutureWarning chatbot_with_bert.py
+python -W ignore::FutureWarning chatbot.py
 ```
 the warning tags just avoid any warning showed and help keep the CLI clean
